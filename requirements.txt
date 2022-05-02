@@ -1,0 +1,7 @@
+certifi==2021.10.8
+cffi==1.15.0
+cryptography==36.0.2
+dnspython==2.2.1
+pycparser==2.21
+pymongo==4.0.2
+pymongocrypt==1.2.0
